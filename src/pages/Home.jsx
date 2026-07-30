@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { ArrowRight, Leaf, ShieldCheck, Heart, Sparkles } from "lucide-react";
-import bannerBg from "../assets/Bannerpvp.png"; 
+import bannerBg from "../assets/bannerpvp.png"; 
 // 1. IMPORTANDO A SUA IMAGEM NOVA AQUI:
 import mariposaImg from "../assets/HomeAssets/Mariposaverde.png"; 
 import EcobagHome from "../assets/HomeAssets/EcobagHome.png"; 

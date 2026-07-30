@@ -1,5 +1,5 @@
 import { ArrowRight, Leaf } from "lucide-react";
-import bannerBg from "../assets/Bannerpvp.png";
+import bannerBg from "../assets/bannerpvp.png";
 
 export default function HeroSection() {
   return (
