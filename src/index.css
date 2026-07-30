@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest: #2A4D30;
+  --color-moss: #5C7444;
+  --color-linen: #F4F0EA;
+  --color-ink: #1C1B1A;
+  --color-bark: #5C4A3D;
+  --font-display: "Archivo Black", sans-serif;
+  --font-body: Inter, system-ui, sans-serif;
+}
