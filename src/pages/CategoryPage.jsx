@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { Leaf } from "lucide-react";
-import bannerBg from "../assets/Bannerpvp.png";
+import bannerBg from "../assets/bannerpvp.png";
 import ProductCard from "../components/ProductCard";
 import { useProductStore } from "../store/useProductStore";
 
