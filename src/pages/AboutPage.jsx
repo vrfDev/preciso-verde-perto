@@ -1,5 +1,5 @@
 import { Leaf } from "lucide-react";
-import bannerBg from "../assets/Bannerpvp.png"; 
+import bannerBg from "../assets/bannerpvp"; 
 
 export default function AboutPage() {
   return (
